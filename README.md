@@ -1,2 +1,3 @@
 # task--4
-task 4
+task 4  ....//  infographics  //......
+![task 4](https://user-images.githubusercontent.com/120400695/208973721-3fb22edf-de42-4879-bca7-484ee4870ae8.jpg)
